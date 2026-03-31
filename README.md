@@ -75,7 +75,7 @@ An AI-powered mobile learning platform that generates personalized learning path
 ### Addskill
 
 <p align="center">
-  <img src="./screenshots/addskill.jpeg width="150px">
+  <img src="./screenshots/addskill.jpeg" width="150px">
 </p>
 
 <br>
