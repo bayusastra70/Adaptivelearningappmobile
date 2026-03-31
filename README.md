@@ -43,7 +43,7 @@ An AI-powered mobile learning platform that generates personalized learning path
 ### Login
 
 <p align="center">
-  <img src="./screenshots/login.png" width="150px">
+  <img src="./screenshots/login.jpeg" width="150px">
 </p>
 
 <br>
@@ -51,7 +51,7 @@ An AI-powered mobile learning platform that generates personalized learning path
 ### Home Page
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="150px">
+  <img src="./screenshots/dashboard.jpeg" width="150px">
 </p>
 
 <br>
@@ -59,7 +59,7 @@ An AI-powered mobile learning platform that generates personalized learning path
 ### Path-detail
 
 <p align="center">
-  <img src="./screenshots/path-detail.png" width="150px">
+  <img src="./screenshots/path-detail.jpeg" width="150px">
 </p>
 
 <br>
@@ -67,7 +67,7 @@ An AI-powered mobile learning platform that generates personalized learning path
 ### Profile
 
 <p align="center">
-  <img src="./screenshots/profile.png" width="150px">
+  <img src="./screenshots/profile.jpeg" width="150px">
 </p>
 
 <br>
@@ -75,7 +75,7 @@ An AI-powered mobile learning platform that generates personalized learning path
 ### Addskill
 
 <p align="center">
-  <img src="./screenshots/addskill.png" width="150px">
+  <img src="./screenshots/addskill.jpeg width="150px">
 </p>
 
 <br>
