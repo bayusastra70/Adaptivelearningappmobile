@@ -11,15 +11,6 @@ An AI-powered mobile learning platform that generates personalized learning path
 * **📊 Dynamic Progress Tracking**: Visual progress bars and floating dashboard cards to keep you motivated.
 * **📱 Modern Floating UI**: A premium, clean, and intuitive user interface designed for a seamless learning experience.
 
----
-
-## 📸 Screenshots
-
-| Dashboard | Learning Path | AI Quiz | AI Mentor |
-| :---: | :---: | :---: | :---: |
-| <img src="./screenshots/dashboard.jpg" width="200" /> | <img src="./screenshots/path_detail.jpg" width="200" /> | <img src="./screenshots/ai_quiz.jpg" width="200" /> | <img src="./screenshots/ai_chat.jpg" width="200" /> |
-
-*(Note: Please ensure the image paths match your filenames in the /screenshots folder)*
 
 ---
 
@@ -45,3 +36,52 @@ An AI-powered mobile learning platform that generates personalized learning path
 * Node.js & npm/yarn
 * Python 3.10+
 * Google Gemini API Key
+
+## Screenshots
+
+
+### Login
+
+<p align="center">
+  <img src="./screenshots/login.png" width="150px">
+</p>
+
+<br>
+
+### Home Page
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="150px">
+</p>
+
+<br>
+
+### Path-detail
+
+<p align="center">
+  <img src="./screenshots/path-detail.png" width="150px">
+</p>
+
+<br>
+
+### Profile
+
+<p align="center">
+  <img src="./screenshots/profile.png" width="150px">
+</p>
+
+<br>
+
+### Addskill
+
+<p align="center">
+  <img src="./screenshots/addskill.png" width="150px">
+</p>
+
+<br>
+
+
+
+
+
+
